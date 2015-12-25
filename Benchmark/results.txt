@@ -1,0 +1,41 @@
+Super Fuck This Mind v2 by Tritonio
+Copyright 2008,2009 Konstantinos Asimakis
+http://inshame.blogspot.com
+Do whatever you want as long as you keep that copyright.
+
+colors: 6  places: 4  once: y  min: 1  max: 6  avg: 4.14
+colors: 6  places: 4  once: n  min: 1  max: 8  avg: 4.6516164994426
+
+colors: 7  places: 4  once: y  min: 1  max: 7  avg: 4.4400465657742
+colors: 7  places: 4  once: n  min: 2  max: 8  avg: 5.0665280665281
+
+colors: 8  places: 4  once: y  min: 2  max: 7  avg: 4.8226804123711
+colors: 8  places: 4  once: n  min: 2  max: 8  avg: 5.4340949033392
+
+colors: 9  places: 4  once: y  min: 3  max: 8  avg: 5.1958041958042
+colors: 9  places: 4  once: n  min: 3  max: 10  avg: 5.843023255814
+
+colors: 10  places: 4  once: y  min: 2  max: 8  avg: 5.5393258426966
+colors: 10  places: 4  once: n  min: 3  max: 10  avg: 6.1614349775785
+
+colors: 6  places: 5  once: y  min: 2  max: 8  avg: 4.8779661016949
+colors: 6  places: 5  once: n  min: 3  max: 7  avg: 5.0805860805861
+
+colors: 7  places: 5  once: y  min: 3  max: 7  avg: 5.078125
+colors: 7  places: 5  once: n  min: 3  max: 8  avg: 5.5396825396825
+
+colors: 8  places: 5  once: y  min: 3  max: 7  avg: 5.26
+colors: 8  places: 5  once: n  min: 4  max: 9  avg: 5.84
+
+colors: 9  places: 5  once: y  min: 3  max: 8  avg: 5.59
+colors: 9  places: 5  once: n  min: 3  max: 9  avg: 6.17
+
+colors: 10  places: 5  once: y  min: 3  max: 8  avg: 5.86
+colors: 10  places: 5  once: n  min: 3  max: 9  avg: 6.58
+
+colors: 6  places: 6  once: y  min: 2  max: 8  avg: 5.75
+colors: 6  places: 6  once: n  min: 4  max: 8  avg: 5.5
+
+colors: 7  places: 6  once: y  min: 3  max: 9  avg: 6.14
+colors: 7  places: 6  once: n  min: 4  max: 9  avg: 6.05
+
