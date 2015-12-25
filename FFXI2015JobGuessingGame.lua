@@ -148,10 +148,10 @@ while true do
 			end
 		end
 	end	
-	io.write("How many correct colors on the correct place? ")
+	io.write("How many CH:? ")
 	redpins=tonumber(io.read()) or 0
 	if redpins==places then print("Found it!!!") break end
-	io.write("How many correct colors on a wrong place? ")
+	io.write("How many H:? ")
 	whitepins=tonumber(io.read()) or 0
 	totpossible=0
 	io.write("Thinking")
