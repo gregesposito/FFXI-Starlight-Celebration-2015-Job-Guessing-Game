@@ -49,36 +49,20 @@ if h then
 	colors=h:read()
 	h:close()
 else	
-	io.write("How many colors? ")
-	colors=io.read("*l")/1
+	io.write("Advanced? (Y/n) ")
+    if (io.read()=="n") == true then
+        colors=6
+    else
+        colors=9
+    end
 end
 
-h=io.open("places.txt")
-if h then
-	places=h:read()
-	h:close()
-else
-	io.write("How many places? ")
-	places=io.read("*l")/1
-end
 
-h=io.open("usecolorstwice.txt")
-if h then
-	usecolorsonce=h:read()=="n"
-	h:close()
-else
-	io.write("Allow using colors twice? (Y/n) ")
-	usecolorsonce=io.read()=="n"
-end
+	places=5
 
-h=io.open("play.txt")
-if h then
-	play=not (h:read()=="n")
-	h:close()
-else
-	io.write("Should I play the suggestions? (Y/n) ")
-	play=not (io.read()=="n")
-end
+	usecolorsonce=true
+
+	play=true
 
 colornames={}
 h=io.open("colornames.txt")
@@ -103,7 +87,7 @@ curtry=0
 combs={}
 if usecolorsonce then
 	totpossible=0
-	print("Excluding combinations that contain the same color twice...")
+	print("Excluding combinations that contain the same job twice...")
 	for examinedcombnumber=0,colors^places-1 do
 		colorsincomb={}
 		for i=0,places-1 do
