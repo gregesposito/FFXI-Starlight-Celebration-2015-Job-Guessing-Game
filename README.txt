@@ -1,4 +1,21 @@
-        Super Fuck This Mind v2.0
+FFXI Starlight Celebration Job Guessing Game Solver
+
+This Windows script uses a Mastermind solver to brute force the Starlight Celebration Job Guessing Game answers.
+
+Launch the .bat file and choose Advanced or not, then follow the prompts for setting jobs and entering the CH and H results.
+
+This is an edited version of smd111's original fork, with the only change being to accomodate the same job being used multiple times.
+
+Tested good for the 2017 celebration.
+
+Best of luck!
+
+- Kriz (Valefor)
+
+Original README.txt file below...
+
+---------------------------------------------------
+Super Fuck This Mind v2.0
                by Tritonio
 
  Copyright 2008-2009 Konstantinos Asimakis
