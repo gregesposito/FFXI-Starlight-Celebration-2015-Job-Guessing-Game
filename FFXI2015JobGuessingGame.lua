@@ -60,7 +60,7 @@ end
 
 	places=5
 
-	usecolorsonce=true
+	usecolorsonce=false
 
 	play=true
 
